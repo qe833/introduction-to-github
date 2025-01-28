@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOQSHA - Sustainable Storage Solutions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #E6F2F2;
+            color: #1A3D3D;
+        }
+        header {
+            background-color: #A0D9D9;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            text-align: center;
+            padding: 20px;
+        }
+        .button {
+            background-color: #1A3D3D;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        footer {
+            background-color: #A0D9D9;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>BOQSHA - Sustainable Storage Solutions</header>
+    <div class="container">
+        <div class="section">
+            <h1>Welcome to BOQSHA</h1>
+            <p>Crafting sustainable storage solutions infused with Emirati artistry.</p>
+            <a href="#about" class="button">Learn More</a>
+        </div>
+        <div class="section" id="about">
+            <h2>About Us</h2>
+            <p>BOQSHA specializes in eco-friendly storage solutions made from natural resin, combining modern design with Emirati heritage.</p>
+        </div>
+        <div class="section">
+            <h2>Our Products</h2>
+            <p>Discover our range of decorative and organizational storage solutions.</p>
+            <a href="#contact" class="button">Contact Us</a>
+        </div>
+        <div class="section" id="contact">
+            <h2>Contact Us</h2>
+            <p>Email us at: contact@boqsha.com</p>
+        </div>
+    </div>
+    <footer>&copy; 2025 BOQSHA. All rights reserved.</footer>
+</body>
+</html>
